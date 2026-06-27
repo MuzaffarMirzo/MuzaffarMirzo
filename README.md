@@ -1,23 +1,56 @@
-<h1 align="center">Hi 👋, I'm Muzaffar</h1>
-<h3 align="center">A passionate Backend developer from Uzbekistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzaffarmirzo&label=Profile%20views&color=0e75b6&style=flat" alt="muzaffarmirzo" /> </p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667eea&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Muzaffar+%F0%9F%91%8B;Backend+Developer+from+Uzbekistan;Python+%26+Django+enthusiast)
 
-- 🌱 I’m currently learning **python**
+<img src="https://komarev.com/ghpvc/?username=muzaffarmirzo&style=flat-square&color=667eea" alt="profile views" />
 
-- 📫 How to reach me **muzaffarboydadayev@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/muzaffar boydadayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muzaffar boydadayev" height="30" width="40" /></a>
-<a href="https://instagram.com/muzaffar_program" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzaffar_program" height="30" width="40" /></a>
+---
+
+### 👨‍💻 About me
+
+- 🔭 I'm a passionate **Backend Developer** from 🇺🇿 Uzbekistan
+- 🌱 Currently deepening my skills in **Python, Django & PostgreSQL**
+- 💡 I enjoy building clean, scalable APIs and backend systems
+- 📫 Reach me at **muzaffarboydadayev@gmail.com**
+
+---
+
+### 🛠 Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaffarmirzo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzaffarmirzo&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzaffarmirzo&show_icons=true&locale=en&layout=compact" alt="muzaffarmirzo" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muzaffarmirzo&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muzaffarmirzo&show_icons=true&locale=en" alt="muzaffarmirzo" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzaffarmirzo&" alt="muzaffarmirzo" /></p>
+### 🤝 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muzaffar_program)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/muzaffar%20boydadayev)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=80&section=footer" />
+</div>
