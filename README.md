@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muzaffar%20Boydadayev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20Django%20%7C%20%F0%9F%87%BA%F0%9F%87%BF%20Uzbekistan&descAlignY=58&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muzaffar%20Boydadayev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20Robotics%20%26%20AI%20Enthusiast%20%7C%20%F0%9F%87%BA%F0%9F%87%BF%20Uzbekistan&descAlignY=58&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Muzaffar!;Backend+Developer+from+Uzbekistan;Python+%26+Django+%7C+PostgreSQL;Building+scalable+APIs;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muzaffar!;Backend+Developer+from+Uzbekistan;Python+%2C+Django+%26+C%2B%2B;Robotics%3A+Arduino%2C+ESP32%2C+LEGO+Spike;Building+scalable+APIs+%26+smart+devices;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=muzaffarmirzo&style=for-the-badge&color=667eea)](https://github.com/muzaffarmirzo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muzaffar_program)
@@ -12,23 +12,46 @@
 
 ---
 
-### 👨‍💻 About me
+### 👨‍💻 Men haqimda
 
-- 🔭 Passionate **Backend Developer** from 🇺🇿 Uzbekistan
-- 🌱 Currently mastering **Python, Django REST Framework & PostgreSQL**
-- 💡 I enjoy building clean, scalable APIs and backend systems
-- 🚀 Always exploring new technologies and best practices
-- 📫 Reach me at **muzaffarboydadayev@gmail.com**
-
----
-
-### 🛠 Tech stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,html,css&perline=8)](https://skillicons.dev)
+- 🔭 Ishtiyoqli **Backend Developer**, 🇺🇿 O'zbekistondan
+- 🌱 Hozirda **Python, Django REST Framework & PostgreSQL** ni chuqur o'rganmoqdaman
+- 🤖 **Robotika va Arduino/ESP32** loyihalari bilan ham shug'ullanaman
+- 🎨 **Figma va Canva** da UI/UX dizayn qilaman
+- 🧠 **AI/ML** texnologiyalarini kundalik ishlarimda qo'llayman
+- 💡 Toza va kengaytiriladigan API'lar, backend tizimlar yaratishni yoqtiraman
+- 🚀 Har doim yangi texnologiyalarni va eng yaxshi amaliyotlarni o'rganaman
+- 📫 Menga bog'lanish: **muzaffarboydadayev@gmail.com**
 
 ---
 
-### 📊 GitHub stats
+### 🛠 Tech Stack
+
+**Backend & Dasturlash**
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,cpp,postgres,redis,docker,git,html,css&perline=9)](https://skillicons.dev)
+
+**Robotika & IoT**
+
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![LEGO Spike](https://img.shields.io/badge/LEGO%20Spike-FFD500?style=for-the-badge&logo=lego&logoColor=black)
+![WeDo](https://img.shields.io/badge/LEGO%20WeDo-D40000?style=for-the-badge&logo=lego&logoColor=white)
+![Makerzoid](https://img.shields.io/badge/Makerzoid-2E8B57?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+</div>
+
+**Dizayn & AI**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ai&perline=8)](https://skillicons.dev)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI%20%2F%20ML-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+### 📊 GitHub statistikasi
 
 <div align="center">
 
@@ -44,13 +67,23 @@
 
 ---
 
-### 📈 Contribution graph
+### 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muzaffarmirzo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=c471ed&point=f64f59)
 
 ---
 
-### 🤝 Connect with me
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=muzaffarmirzo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+### 🤝 Bog'lanish
 
 <div align="center">
 
@@ -59,8 +92,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzaffarboydadayev@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
